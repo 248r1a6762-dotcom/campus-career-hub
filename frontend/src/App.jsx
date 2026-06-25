@@ -22,7 +22,7 @@ import LibraryFacilities from './pages/LibraryFacilities';
 import HostelFacilities from './pages/HostelFacilities';
 import CollegePayment from './pages/CollegePayment';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL || '/api';
 
 export default function App() {
   const [token, setToken] = useState(localStorage.getItem('token') || '');
