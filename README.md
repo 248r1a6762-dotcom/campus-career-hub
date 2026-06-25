@@ -5,6 +5,7 @@ A comprehensive full-stack web application designed for students, alumni, and re
 ---
 
 ## 🚀 Live Demo & Repository
+* **Live Demo**: [https://9db245476bf5b6.lhr.life](https://9db245476bf5b6.lhr.life)
 * **GitHub Repository**: [https://github.com/248r1a6762-dotcom/campus-career-hub](https://github.com/248r1a6762-dotcom/campus-career-hub)
 * **Backend API**: Node.js/Express (running on port `5000`)
 * **Frontend UI**: React/Vite (running on port `5173`)
