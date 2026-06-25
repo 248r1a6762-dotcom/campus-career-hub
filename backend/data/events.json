@@ -1,0 +1,24 @@
+[
+  {
+    "_id": "mqbz0zzi7599b",
+    "createdAt": "2026-06-13T06:25:11.982Z",
+    "title": "Virtual Tech Career Fair 2026",
+    "date": "2026-06-25",
+    "time": "1:00 PM - 5:00 PM EST",
+    "description": "Meet recruiters from Google, Microsoft, Stripe, and Apple. Chat about internship opportunities and drop off resumes.",
+    "category": "Career Fair",
+    "company": "Campus Tech Collective",
+    "attendees": []
+  },
+  {
+    "_id": "mqbz0zzihv7ta",
+    "createdAt": "2026-06-13T06:25:11.982Z",
+    "title": "Alumni Panel: Building a Career in Finance",
+    "date": "2026-07-02",
+    "time": "6:00 PM - 7:30 PM EST",
+    "description": "Join us for an interactive Q&A session with alumni working in Goldman Sachs, JP Morgan, and top venture capital groups.",
+    "category": "Panel Discussion",
+    "company": "University Finance Club",
+    "attendees": []
+  }
+]

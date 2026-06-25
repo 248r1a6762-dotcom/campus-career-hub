@@ -1,0 +1,50 @@
+[
+  {
+    "_id": "mqbz0zz8ml9i7",
+    "createdAt": "2026-06-13T06:25:11.972Z",
+    "title": "Software Engineering Intern (Summer 2027)",
+    "company": "Google",
+    "location": "Mountain View, CA (Hybrid)",
+    "salary": "$45 - $60 / hour",
+    "type": "Internship",
+    "description": "Join the Google Cloud team to design and build APIs, database services, and modern frontend dashboards. You will work with a senior mentor, attend workshops, and build features shipped directly to production.",
+    "requirements": "Currently pursuing a BS/MS in Computer Science or related fields. Experience with JavaScript, React, Python, or Go.",
+    "industry": "engineering"
+  },
+  {
+    "_id": "mqbz0zz9lg12x",
+    "createdAt": "2026-06-13T06:25:11.973Z",
+    "title": "Investment Banking Analyst",
+    "company": "Goldman Sachs",
+    "location": "New York, NY",
+    "salary": "$110,000 - $130,000 / year",
+    "type": "Full-Time",
+    "description": "Support corporate clients in underwriting, capital raising, corporate valuations, and mergers & acquisitions (M&A). Must have strong mathematical and structural analytical capabilities.",
+    "requirements": "BS/BA in Finance, Economics, Mathematics or similar. High proficiency in Microsoft Excel and financial modeling.",
+    "industry": "finance"
+  },
+  {
+    "_id": "mqbz0zzbv7j19",
+    "createdAt": "2026-06-13T06:25:11.975Z",
+    "title": "UX Design Intern",
+    "company": "Figma",
+    "location": "San Francisco, CA",
+    "salary": "$35 - $48 / hour",
+    "type": "Internship",
+    "description": "Work side-by-side with product designers, developers, and researchers. Create wireframes, interactive web components, and perform usability studies.",
+    "requirements": "Background in UI/UX Design, Human-Computer Interaction, or Graphic Design. Portfolio showing user research and visual designs.",
+    "industry": "design"
+  },
+  {
+    "_id": "mqbz0zzd3r25a",
+    "createdAt": "2026-06-13T06:25:11.977Z",
+    "title": "Growth Marketing Specialist",
+    "company": "Stripe",
+    "location": "Remote",
+    "salary": "$85,000 - $105,000 / year",
+    "type": "Full-Time",
+    "description": "Help scale our developer tools ecosystem. Manage growth campaigns, search engine optimization (SEO), and perform A/B testing on pricing pages.",
+    "requirements": "2+ years of marketing/growth experience, proficiency in Google Analytics, SEO tools, and copy drafting.",
+    "industry": "marketing"
+  }
+]

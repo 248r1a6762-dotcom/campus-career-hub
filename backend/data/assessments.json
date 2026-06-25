@@ -1,0 +1,142 @@
+[
+  {
+    "_id": "mqbz0zz4xfb7k",
+    "createdAt": "2026-06-13T06:25:11.968Z",
+    "id": 1,
+    "question": "How do you prefer to solve problems?",
+    "options": [
+      {
+        "text": "Writing code, analyzing logic, and building digital tools",
+        "points": {
+          "engineering": 4,
+          "research": 2
+        }
+      },
+      {
+        "text": "Analyzing financial trends, balancing budgets, or modeling markets",
+        "points": {
+          "finance": 4,
+          "management": 2
+        }
+      },
+      {
+        "text": "Creating layouts, designing logos, or sketching visual graphics",
+        "points": {
+          "design": 4,
+          "marketing": 2
+        }
+      },
+      {
+        "text": "Helping people resolve personal challenges, teaching, or advising",
+        "points": {
+          "counseling": 4,
+          "management": 2
+        }
+      }
+    ]
+  },
+  {
+    "_id": "mqbz0zz5rlbv9",
+    "createdAt": "2026-06-13T06:25:11.969Z",
+    "id": 2,
+    "question": "Which work environment sounds most appealing to you?",
+    "options": [
+      {
+        "text": "A quiet space focused on research, analysis, and data systems",
+        "points": {
+          "research": 4,
+          "engineering": 2
+        }
+      },
+      {
+        "text": "A collaborative startup setting where roles and designs evolve rapidly",
+        "points": {
+          "design": 3,
+          "marketing": 3
+        }
+      },
+      {
+        "text": "A corporate boardroom pitching financial strategies and business deals",
+        "points": {
+          "finance": 4,
+          "management": 3
+        }
+      },
+      {
+        "text": "A community center, hospital, or university campus guiding others",
+        "points": {
+          "counseling": 4
+        }
+      }
+    ]
+  },
+  {
+    "_id": "mqbz0zz6l597w",
+    "createdAt": "2026-06-13T06:25:11.970Z",
+    "id": 3,
+    "question": "When working on a group project, which role do you naturally fall into?",
+    "options": [
+      {
+        "text": "The developer/builder who implements the technical backend",
+        "points": {
+          "engineering": 4
+        }
+      },
+      {
+        "text": "The project coordinator who manages deadlines, budget, and scope",
+        "points": {
+          "management": 4,
+          "finance": 2
+        }
+      },
+      {
+        "text": "The presenter who crafts the pitch, design slides, and marketing story",
+        "points": {
+          "marketing": 4,
+          "design": 2
+        }
+      },
+      {
+        "text": "The mediator who keeps the team happy and resolves disputes",
+        "points": {
+          "counseling": 4
+        }
+      }
+    ]
+  },
+  {
+    "_id": "mqbz0zz7092d4",
+    "createdAt": "2026-06-13T06:25:11.971Z",
+    "id": 4,
+    "question": "What type of articles, videos, or news do you consume in your free time?",
+    "options": [
+      {
+        "text": "AI developments, coding tutorials, and new open-source software",
+        "points": {
+          "engineering": 4,
+          "research": 2
+        }
+      },
+      {
+        "text": "UI/UX case studies, logo designs, typography, and visual artwork",
+        "points": {
+          "design": 4,
+          "marketing": 1
+        }
+      },
+      {
+        "text": "Stock market updates, economic cycles, and venture capital rounds",
+        "points": {
+          "finance": 4,
+          "management": 2
+        }
+      },
+      {
+        "text": "Psychology studies, mental health, career advice, and human relationships",
+        "points": {
+          "counseling": 4
+        }
+      }
+    ]
+  }
+]

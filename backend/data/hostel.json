@@ -1,0 +1,94 @@
+[
+  {
+    "_id": "mqbzppss7b4i4",
+    "createdAt": "2026-06-13T06:44:25.180Z",
+    "block": "Block A (Boys)",
+    "roomNumber": "A-101",
+    "type": "Double Sharing",
+    "floor": 1,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Attached Bathroom",
+      "Study Table"
+    ],
+    "monthlyRent": 8000,
+    "available": true,
+    "totalBeds": 2,
+    "occupiedBeds": 0
+  },
+  {
+    "_id": "mqbzppss9tisv",
+    "createdAt": "2026-06-13T06:44:25.180Z",
+    "block": "Block A (Boys)",
+    "roomNumber": "A-205",
+    "type": "Single Occupancy",
+    "floor": 2,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Attached Bathroom",
+      "Wardrobe",
+      "Mini Fridge"
+    ],
+    "monthlyRent": 12000,
+    "available": true,
+    "totalBeds": 1,
+    "occupiedBeds": 0
+  },
+  {
+    "_id": "mqbzppst17xci",
+    "createdAt": "2026-06-13T06:44:25.181Z",
+    "block": "Block B (Girls)",
+    "roomNumber": "B-103",
+    "type": "Triple Sharing",
+    "floor": 1,
+    "amenities": [
+      "Fan",
+      "WiFi",
+      "Common Bathroom",
+      "Study Table"
+    ],
+    "monthlyRent": 5500,
+    "available": true,
+    "totalBeds": 3,
+    "occupiedBeds": 1
+  },
+  {
+    "_id": "mqbzppsu8d19i",
+    "createdAt": "2026-06-13T06:44:25.182Z",
+    "block": "Block B (Girls)",
+    "roomNumber": "B-301",
+    "type": "Double Sharing",
+    "floor": 3,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Attached Bathroom",
+      "Balcony"
+    ],
+    "monthlyRent": 9000,
+    "available": true,
+    "totalBeds": 2,
+    "occupiedBeds": 0
+  },
+  {
+    "_id": "mqbzppsvv596k",
+    "createdAt": "2026-06-13T06:44:25.183Z",
+    "block": "Block C (Mixed PG)",
+    "roomNumber": "C-402",
+    "type": "Single Occupancy",
+    "floor": 4,
+    "amenities": [
+      "AC",
+      "WiFi",
+      "Attached Bathroom",
+      "Gym Access",
+      "Rooftop View"
+    ],
+    "monthlyRent": 15000,
+    "available": true,
+    "totalBeds": 1,
+    "occupiedBeds": 0
+  }
+]

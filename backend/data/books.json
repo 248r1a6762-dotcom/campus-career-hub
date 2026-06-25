@@ -1,0 +1,54 @@
+[
+  {
+    "_id": "mqbzppsdwbxg7",
+    "createdAt": "2026-06-13T06:44:25.165Z",
+    "title": "Introduction to Algorithms (CLRS)",
+    "author": "Cormen, Leiserson, Rivest & Stein",
+    "subject": "Computer Science",
+    "condition": "Good",
+    "price": 500,
+    "listingType": "Sale",
+    "sellerName": "Rahul Sharma",
+    "sellerEmail": "rahul@campus.edu",
+    "available": true
+  },
+  {
+    "_id": "mqbzppshcn87q",
+    "createdAt": "2026-06-13T06:44:25.169Z",
+    "title": "Principles of Economics",
+    "author": "N. Gregory Mankiw",
+    "subject": "Economics",
+    "condition": "Excellent",
+    "price": 0,
+    "listingType": "Free",
+    "sellerName": "Priya Nair",
+    "sellerEmail": "priya@campus.edu",
+    "available": true
+  },
+  {
+    "_id": "mqbzppsj86j2f",
+    "createdAt": "2026-06-13T06:44:25.171Z",
+    "title": "Organic Chemistry (8th Ed)",
+    "author": "Paula Bruice",
+    "subject": "Chemistry",
+    "condition": "Fair",
+    "price": 350,
+    "listingType": "Sale",
+    "sellerName": "Ananya Singh",
+    "sellerEmail": "ananya@campus.edu",
+    "available": true
+  },
+  {
+    "_id": "mqbzppsl1n7ef",
+    "createdAt": "2026-06-13T06:44:25.173Z",
+    "title": "Engineering Mathematics Vol 1",
+    "author": "H.K. Dass",
+    "subject": "Mathematics",
+    "condition": "Good",
+    "price": 0,
+    "listingType": "Exchange",
+    "sellerName": "Kiran Reddy",
+    "sellerEmail": "kiran@campus.edu",
+    "available": true
+  }
+]

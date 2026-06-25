@@ -1,0 +1,115 @@
+[
+  {
+    "_id": "mqbz0zze3ty37",
+    "createdAt": "2026-06-13T06:25:11.978Z",
+    "id": "resume-writing",
+    "title": "Resume & Cover Letter Mastery",
+    "category": "Job Hunting",
+    "instructor": "Sarah Jenkins, Career Counselor",
+    "duration": "2 hours",
+    "description": "Learn how to format, structure, and tailor your resume to pass Applicant Tracking Systems (ATS) and catch recruiter attention.",
+    "lessons": [
+      {
+        "title": "ATS Mechanics & Keyboards",
+        "duration": "15m"
+      },
+      {
+        "title": "Action Verbs & Quantifiable Results",
+        "duration": "25m"
+      },
+      {
+        "title": "Formatting for Professional Elegance",
+        "duration": "20m"
+      },
+      {
+        "title": "Tailoring to Specific Job Descriptions",
+        "duration": "30m"
+      }
+    ],
+    "quiz": {
+      "question": "Which of the following describes the best way to write a resume bullet point?",
+      "options": [
+        "Responsible for handling customer issues and maintaining databases.",
+        "Increased query response speed by 35% by implementing a Redis caching layer.",
+        "Worked on a coding team that developed a website for campus housing.",
+        "Completed all tasks given by my team lead in a timely manner."
+      ],
+      "answerIndex": 1
+    },
+    "badge": "Resume Master"
+  },
+  {
+    "_id": "mqbz0zzghrr78",
+    "createdAt": "2026-06-13T06:25:11.980Z",
+    "id": "interviewing",
+    "title": "Cracking the Tech & Behavioral Interview",
+    "category": "Interview Prep",
+    "instructor": "David Vance, Tech Recruiter",
+    "duration": "3.5 hours",
+    "description": "Step-by-step guidance on structuring behavioral responses (STAR method) and whiteboarding technical software coding puzzles.",
+    "lessons": [
+      {
+        "title": "The STAR Framework for Behaviors",
+        "duration": "30m"
+      },
+      {
+        "title": "Handling Critical Technical Puzzles",
+        "duration": "45m"
+      },
+      {
+        "title": "Questions You MUST Ask Your Interviewer",
+        "duration": "20m"
+      },
+      {
+        "title": "Salary Negotiation 101",
+        "duration": "30m"
+      }
+    ],
+    "quiz": {
+      "question": "What does the 'STAR' framework in behavioral interviewing stand for?",
+      "options": [
+        "Start, Talk, Answer, Review",
+        "Situation, Task, Action, Result",
+        "Strategy, Time, Analytics, Response",
+        "Skill, Training, Achievement, Recommendation"
+      ],
+      "answerIndex": 1
+    },
+    "badge": "Interview Guru"
+  },
+  {
+    "_id": "mqbz0zzh5eynm",
+    "createdAt": "2026-06-13T06:25:11.981Z",
+    "id": "public-speaking",
+    "title": "Public Speaking & Presentation Skills",
+    "category": "Communication",
+    "instructor": "Dr. Amanda Ross, Communication Lead",
+    "duration": "1.5 hours",
+    "description": "Overcome stage fright, master vocal modulation, and deliver engaging presentations that hook your audience.",
+    "lessons": [
+      {
+        "title": "Controlling Stage Anxiety",
+        "duration": "20m"
+      },
+      {
+        "title": "Pitch Modulation & Voice Pacing",
+        "duration": "25m"
+      },
+      {
+        "title": "Crafting High-Impact Slide Decks",
+        "duration": "30m"
+      }
+    ],
+    "quiz": {
+      "question": "What is the recommended rule for text content on slides?",
+      "options": [
+        "Fill every corner with bullet points so the audience can read along.",
+        "Keep text sparse, focusing on a single big idea per slide backed by visual cues.",
+        "Always use bright rainbow colors to attract interest.",
+        "Copy-paste the complete paragraph from your script."
+      ],
+      "answerIndex": 1
+    },
+    "badge": "Master Presenter"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "_id": "mqbzppsn13pcv",
+    "createdAt": "2026-06-13T06:44:25.175Z",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "isbn": "978-0132350884",
+    "category": "Computer Science",
+    "totalCopies": 5,
+    "availableCopies": 2,
+    "location": "Section A, Shelf 2",
+    "description": "A handbook of agile software craftsmanship.",
+    "reservedBy": [
+      "mqbz6i1wdk6i1"
+    ],
+    "updatedAt": "2026-06-13T06:45:04.834Z"
+  },
+  {
+    "_id": "mqbzppsoxmmaz",
+    "createdAt": "2026-06-13T06:44:25.176Z",
+    "title": "The Design of Everyday Things",
+    "author": "Don Norman",
+    "isbn": "978-0465050659",
+    "category": "Design",
+    "totalCopies": 4,
+    "availableCopies": 2,
+    "location": "Section B, Shelf 1",
+    "description": "A fascinating exploration of good & bad design."
+  },
+  {
+    "_id": "mqbzppspqm3sy",
+    "createdAt": "2026-06-13T06:44:25.177Z",
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "isbn": "978-0374533557",
+    "category": "Psychology",
+    "totalCopies": 6,
+    "availableCopies": 4,
+    "location": "Section C, Shelf 3",
+    "description": "Two systems that shape the way we think."
+  },
+  {
+    "_id": "mqbzppsq91ppp",
+    "createdAt": "2026-06-13T06:44:25.178Z",
+    "title": "Competitive Programming 3",
+    "author": "Steven Halim",
+    "isbn": "978-5800083169",
+    "category": "Computer Science",
+    "totalCopies": 3,
+    "availableCopies": 1,
+    "location": "Section A, Shelf 5",
+    "description": "Prep guide for competitive coding championships."
+  },
+  {
+    "_id": "mqbzppsrwgvol",
+    "createdAt": "2026-06-13T06:44:25.179Z",
+    "title": "Financial Accounting",
+    "author": "Narayanswami",
+    "isbn": "978-8120348462",
+    "category": "Finance",
+    "totalCopies": 8,
+    "availableCopies": 5,
+    "location": "Section D, Shelf 2",
+    "description": "Core undergraduate financial accounting textbook."
+  }
+]

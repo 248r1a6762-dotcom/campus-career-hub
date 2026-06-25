@@ -1,0 +1,123 @@
+[
+  {
+    "_id": "mqbz0zzjfo0qg",
+    "createdAt": "2026-06-13T06:25:11.983Z",
+    "name": "Alex Rivera",
+    "email": "alex.rivera@alumni.edu",
+    "password": "password123",
+    "role": "alumni",
+    "profile": {
+      "company": "Google",
+      "title": "Senior Software Engineer",
+      "industry": "engineering",
+      "graduationYear": "2021",
+      "isMentor": true,
+      "bio": "Former CS major. Passionate about helping students break into tech, review resume structures, and run mock coding interviews.",
+      "skills": [
+        "React",
+        "System Design",
+        "Node.js",
+        "Algorithms"
+      ],
+      "interests": [
+        "Tech",
+        "Open Source",
+        "Gaming"
+      ],
+      "mentorBio": "I offer weekly mock interviews and resume reviews. Happy to connect!"
+    }
+  },
+  {
+    "_id": "mqbz0zzkgdnx7",
+    "createdAt": "2026-06-13T06:25:11.984Z",
+    "name": "Jessica Chen",
+    "email": "jessica.chen@alumni.edu",
+    "password": "password123",
+    "role": "alumni",
+    "profile": {
+      "company": "J.P. Morgan",
+      "title": "VP Investment Banking",
+      "industry": "finance",
+      "graduationYear": "2018",
+      "isMentor": true,
+      "bio": "Finance and Econ graduate. Happy to assist with financial modeling guidance, interview preps, and Wall Street networking tips.",
+      "skills": [
+        "Financial Analysis",
+        "Mergers & Acquisitions",
+        "Valuation"
+      ],
+      "interests": [
+        "Finance",
+        "Golf",
+        "Traveling"
+      ],
+      "mentorBio": "Can schedule chats about investment banking career tracks and interview preparation."
+    }
+  },
+  {
+    "_id": "mqbz0zzl9mdq6",
+    "createdAt": "2026-06-13T06:25:11.985Z",
+    "name": "Marcus Vance",
+    "email": "marcus.vance@alumni.edu",
+    "password": "password123",
+    "role": "alumni",
+    "profile": {
+      "company": "Airbnb",
+      "title": "Lead Product Designer",
+      "industry": "design",
+      "graduationYear": "2020",
+      "isMentor": true,
+      "bio": "Dedicated designer focused on user research and design systems. Let's optimize your Figma portfolios!",
+      "skills": [
+        "Figma",
+        "UX Research",
+        "Wireframing",
+        "Interaction Design"
+      ],
+      "interests": [
+        "Art",
+        "Photography",
+        "Travel"
+      ],
+      "mentorBio": "I can help review design portfolios and discuss career paths in UI/UX."
+    }
+  },
+  {
+    "_id": "mqbz6i1wdk6i1",
+    "createdAt": "2026-06-13T06:29:28.676Z",
+    "name": "wert",
+    "email": "248r1a6762@cmrec.ac.in",
+    "password": "cmrec@1234",
+    "role": "student",
+    "profile": {
+      "skills": [],
+      "interests": [],
+      "bio": "",
+      "major": "data science",
+      "graduationYear": "2028",
+      "resumeUrl": "",
+      "coverLetterUrl": "",
+      "badges": [
+        "Resume Master"
+      ],
+      "careerPathPlan": [],
+      "recommendedCareers": [
+        "engineering",
+        "design",
+        "marketing",
+        "finance",
+        "counseling"
+      ],
+      "assessmentCompleted": true,
+      "courseProgress": {
+        "resume-writing": [
+          0,
+          1,
+          2,
+          3
+        ]
+      }
+    },
+    "updatedAt": "2026-06-13T06:30:38.720Z"
+  }
+]
